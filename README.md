@@ -31,7 +31,7 @@ The repository contains configuration files and core training datasets tailored 
 ---
 
 ## 📊 Deployment & Configuration
-The project is configured to stream data directly from Roboflow. Ensure your `.yaml` structures are pointing to your active dataset URLs:
+The project is configured to stream data directly from Roboflow. 
 
 ```yaml
 # Inside yolo8data.yaml / yolo12data.yaml
@@ -41,3 +41,6 @@ test: [https://dataset.roboflow.com/](https://dataset.roboflow.com/)...
 
 nc: 1
 names: ['pothole']
+
+
+Here's a short demo of the system in action:https://drive.google.com/file/d/1Iay8zIogXWaBlCc8xfJZgnjlaSIb8yRx/view?usp=drive_link
