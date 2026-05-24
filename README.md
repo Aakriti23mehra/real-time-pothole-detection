@@ -32,4 +32,4 @@ The repository contains configuration files and core training datasets tailored 
 
 ## 🎬 Live Project Demo
 See the real-time detection system and inference pipeline in action here:
-👉 **[Watch the Live Demo on Google Drive](https://drive.google.com/file/d/1Iay8zIogXWaBlCc8xfJZgnjlaSIb8yRx/view?usp=sharing)**
+👉 **[Watch the Live Demo ](https://drive.google.com/file/d/1Iay8zIogXWaBlCc8xfJZgnjlaSIb8yRx/view?usp=sharing)**
