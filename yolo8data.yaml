@@ -1,0 +1,12 @@
+names:
+- road-pothole
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pothole_detection-mvzgh
+  url: https://universe.roboflow.com/firedetection-exjij/pothole_detection-mvzgh/dataset/8
+  version: 8
+  workspace: firedetection-exjij
+test: /content/datasets/Pothole_detection-8/test
+train: /content/datasets/Pothole_detection-8/train
+val: /content/datasets/Pothole_detection-8/valid

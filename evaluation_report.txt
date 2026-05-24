@@ -1,0 +1,6 @@
+YOLO Model Evaluation Report
+Model: C:\Users\mehra\Downloads\Detection_of_Potholes\modelyolo8.pt
+mAP@0.5: 0.7843
+mAP@0.5:0.95: 0.5007
+Precision: 0.8309
+Recall: 0.6714

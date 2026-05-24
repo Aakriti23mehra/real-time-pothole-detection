@@ -1,0 +1,13 @@
+train: C:\Users\mehra\Downloads\Detection_of_Potholes\object_detection.v1i.yolov12\train
+val: C:\Users\mehra\Downloads\Detection_of_Potholes\object_detection.v1i.yolov12\valid
+test:C:\Users\mehra\Downloads\Detection_of_Potholes\object_detection.v1i.yolov12\test
+
+nc: 1
+names: ['pothole']
+
+roboflow:
+  workspace: firedetection-exjij
+  project: object_detection-zmyea
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/firedetection-exjij/object_detection-zmyea/dataset/1
